@@ -1,4 +1,10 @@
-## Hi there 👋
+##Hello world
+
+En formation de développement Web full-stack
+- HTML
+- CSS
+- Javascript
+
 
 <!--
 **BarbierTheo/BarbierTheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
