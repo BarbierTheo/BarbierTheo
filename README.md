@@ -1,6 +1,4 @@
-## Hello world
-
-En formation de développement Web full-stack
+Junior Full-stack Web Developer
 
 
 <!--
