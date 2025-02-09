@@ -1,9 +1,6 @@
 ## Hello world
 
 En formation de développement Web full-stack
-- HTML
-- CSS
-- Javascript
 
 
 <!--
